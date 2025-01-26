@@ -18,3 +18,5 @@ I'm **Divyansh Kathuria**, an aspiring software developer and tech enthusiast. W
 
 ![Divyansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DIVYANSHKATHURIA&show_icons=true&theme=radical)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DIVYANSHKATHURIA&theme=tokyonight&layout=compact)
+
